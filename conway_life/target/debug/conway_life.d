@@ -1,0 +1,1 @@
+C:\Users\Pablo\OneDrive\Escritorio\Graficas\ por\ computadora\lab2_graficas\conway_life\target\debug\conway_life.exe: C:\Users\Pablo\OneDrive\Escritorio\Graficas\ por\ computadora\lab2_graficas\conway_life\src\main.rs
